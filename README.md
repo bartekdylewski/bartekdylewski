@@ -1,6 +1,7 @@
 ### Hi! I'm Bartek 👋
 
-[![Bartek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartekdylewski)](https://github.com/anuraghazra/github-readme-stats)
+[![Bartek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartekdylewski&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Bartek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartekdylewski&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!--
 **bartekdylewski/bartekdylewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
