@@ -1,5 +1,5 @@
 ### Hi, I'm Bartek👋
-I am programming robots in Java since 2020 when I joined **FRC 5883 Spice Gears**!
+I started programming robots in Java in 2020 when I joined [**FRC 5883 Spice Gears**](https://github.com/SpiceGears)!
 
 <a href=https://github.com/anuraghazra/github-readme-stats>
 <img height=230 align="center" src=
