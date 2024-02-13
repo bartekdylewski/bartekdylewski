@@ -1,9 +1,20 @@
-### Hi! I'm Bartek 👋
+### Hi, I'm Bartek👋
+I am programming robots in Java since 2021 when i joined **FRC 5883 Spice Gears**!
 
-[![Bartek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartekdylewski&bg_color=0000066f&hide_rank=true&hide_border=true&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Bartek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartekdylewski&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<img height=200 align="center" src=
+  "https://github-readme-stats.vercel.app/api?username=bartekdylewski&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&hide_rank=true&show_icons=true&bg_color=0000066f&hide_border=true&theme=midnight-purple#gh-dark-mode-only"
+  />
+<img height=200 align="center" src=
+  "https://github-readme-stats.vercel.app/api/top-langs/?username=bartekdylewski&layout=compact&bg_color=0000066f&hide_border=true&theme=midnight-purple#gh-dark-mode-only"
+  />
+
 
 <!--
+theme 
+&bg_color=0000066f&hide_border=true&theme=midnight-purple#gh-dark-mode-only
+&theme=graywhite#gh-light-mode-only
+
+
 **bartekdylewski/bartekdylewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
