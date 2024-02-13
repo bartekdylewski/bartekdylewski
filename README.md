@@ -1,6 +1,6 @@
 ### Hi! I'm Bartek 👋
 
-[![Bartek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartekdylewski&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Bartek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartekdylewski&bg_color=0000066f&hide_rank=true&hide_border=true&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Bartek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartekdylewski&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
