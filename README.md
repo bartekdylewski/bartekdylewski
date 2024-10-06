@@ -1,10 +1,11 @@
 ### Hi, I'm Bartek👋
 I started programming robots in Java in 2021 when I joined [**FRC 5883 Spice Gears**](https://github.com/SpiceGears)!
-
+<!--
 <a href=https://github.com/anuraghazra/github-readme-stats>
 <img height=230 align="center" src=
   "https://github-readme-stats.vercel.app/api?username=bartekdylewski&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&hide_rank=true&show_icons=true&bg_color=0000066f&hide_border=true&theme=midnight-purple"/>
 </a>
+-->
 <a href=https://github.com/anuraghazra/github-readme-stats>
 <img height=230 align="center" src=
   "https://github-readme-stats.vercel.app/api/top-langs/?username=bartekdylewski&layout=donut&bg_color=0000066f&hide_border=true&theme=midnight-purple"/>
