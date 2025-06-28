@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💬 Ask me about FRC
 
-I started programming robots in Java in 2021 when I joined [Spice Gears](https://github.com/SpiceGears).
+I started programming robots in Java in 2020 when I joined [Spice Gears](https://github.com/SpiceGears).
 
 <a href=https://github.com/anuraghazra/github-readme-stats>
 <img height=200 align="center" src=
