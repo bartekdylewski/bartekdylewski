@@ -1,14 +1,14 @@
 ## Hi, I'm Bartek👋
-- 📖 I'm Studying Computer Science @ Lublin University of Technology
-- 🌱 I’m currently learning C++
-- 💬 Ask me about FRC
+- 📖 I'm studying Computer Science @ Lublin University of Technology.
+- 🛠️ I'm working with Edge AI in Medical Robotics.
+- 🌱 I’m currently learning C++ and ML/AI in Python.
+- 💬 Ask me about FRC / Robotics!
+- ☕ I started programming robots in Java in 2020 at [Spice Gears](https://github.com/SpiceGears).
 
-I started programming robots in Java in 2020 when I joined [Spice Gears](https://github.com/SpiceGears).
-
-<a href=https://github.com/anuraghazra/github-readme-stats>
+<!-- <a href=https://github.com/anuraghazra/github-readme-stats>
 <img height=200 align="center" src=
   "https://github-readme-stats.vercel.app/api/top-langs/?username=bartekdylewski&layout=donut&bg_color=0000066f&hide_border=true&theme=midnight-purple"/>
-</a>
+</a> -->
 
 <!-- 
 <a href=https://github.com/anuraghazra/github-readme-stats>
