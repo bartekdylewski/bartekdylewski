@@ -1,37 +1,28 @@
-## Hi, I'm Bartek👋
-- 📖 I'm studying Computer Science @ Lublin University of Technology.
-- 🛠️ I'm working with Edge AI in Medical Robotics.
-- 🌱 I’m currently learning C++ and ML/AI in Python.
-- 💬 Ask me about FRC / Robotics!
-- ☕ I started programming robots in Java in 2020 at [Spice Gears](https://github.com/SpiceGears).
+<p align="center">
+  <a href="https://github.com/jeantimex/neofetch-profile">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=bartekdylewski&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbartekdylewski%2Fbartekdylewski%2Fmain%2Fneofetch.json">
+      <img alt="Neofetch-style GitHub profile card" src="https://neofetch-profile.vercel.app/api?username=bartekdylewski&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fbartekdylewski%2Fbartekdylewski%2Fmain%2Fneofetch.json">
+    </picture>
+  </a>
+</p>
 
-<!-- <a href=https://github.com/anuraghazra/github-readme-stats>
-<img height=200 align="center" src=
-  "https://github-readme-stats.vercel.app/api/top-langs/?username=bartekdylewski&layout=donut&bg_color=0000066f&hide_border=true&theme=midnight-purple"/>
-</a> -->
+## About me
 
-<!-- 
-<a href=https://github.com/anuraghazra/github-readme-stats>
-<img height=2 align="center" src=
-  "https://github-readme-stats.vercel.app/api?username=bartekdylewski&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&hide_rank=true&show_icons=true&bg_color=0000066f&hide_border=true&theme=midnight-purple"/>
-</a> -->
+- 🎓 Studying **Computer Science** at Lublin University of Technology
+- 🩺 Currently working on **Computer Vision / Edge AI for Medical Robotics**
+- 🌱 Learning **Machine Learning / AI in Python** and **C++**
+- 🤖 **FIRST Robotics** mentor @ [SpiceGears](https://github.com/SpiceGears) (Team 5883) - started programming robots in Java back in 2020
+- 🏎️ Motorsports fan
+- 💬 Ask me about FRC, Robotics or AI
+- 📍 Lublin, Poland
 
-<!--
-theme 
-&bg_color=0000066f&hide_border=true&theme=midnight-purple#gh-dark-mode-only
-&theme=graywhite#gh-light-mode-only
+<br/>
 
+## Featured projects
 
-**bartekdylewski/bartekdylewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 [**FRC-2024**](https://github.com/SpiceGears/FRC-2024) | Competition robot code for FIRST Robotics Team 5883 (SpiceGears), 2024 season | `Java` |
+| 🎄 [**Advent of Code 2024**](https://github.com/bartekdylewski/adventofcode) | Daily algorithmic problem solving | `Python` |
+| 🔎 [**Odnalezione Zguby**](https://github.com/bartekdylewski/hacknation_2025_odnalezione_zguby) | Web app concept for collecting & tracking lost items across Poland - built at HackNation 2025 | `TypeScript` |
