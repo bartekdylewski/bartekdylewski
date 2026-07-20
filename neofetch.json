@@ -1,0 +1,37 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Role", "value": "Software Engineer (Python) | CS Student" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "e-mail", "value": "dylewskipoczta@gmail.com" }
+      ]
+    },
+    {
+      "title": "- Experience",
+      "fields": [
+        { "key": "Java", "value": "3+ yrs (FRC / robotics)" },
+        { "key": "Python", "value": "1+ yrs" },
+        { "key": "C++", "value": "2+ yrs" }
+      ]
+    },
+    {
+      "title": "- Currently",
+      "fields": [
+        { "key": "Working with", "value": "CV/AI for Medical Robotics" },
+        { "key": "Learning", "value": "Python, C++, Machine Learning, Applied AI, LLMs" },
+        { "key": "Mentoring", "value": "FIRST Robotics @ SpiceGears 5883" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Followers", "value": "{{followers}}" }, "right": { "key": "Following", "value": "{{following}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
+      "loc"
+    ]
+  }
+}
