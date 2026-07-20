@@ -4,8 +4,9 @@
       "title": "{{username}}@github",
       "fields": [
         { "key": "Role", "value": "Software Engineer (Python) | CS Student" },
-        { "key": "Location", "value": "{{location}}" },
-        { "key": "e-mail", "value": "dylewskipoczta@gmail.com" }
+        { "key": "Location", "value": "Lublin, Poland" },
+        { "key": "E-mail", "value": "dylewskipoczta@gmail.com" },
+        { "key": "LinkedIn", "value": "bartekdylewski" }
       ]
     },
     {
@@ -20,8 +21,9 @@
       "title": "- Currently",
       "fields": [
         { "key": "Working with", "value": "CV/AI for Medical Robotics" },
-        { "key": "Learning", "value": "Python, C++, Machine Learning, Applied AI, LLMs" },
-        { "key": "Mentoring", "value": "FIRST Robotics @ SpiceGears 5883" }
+        { "key": "Learning", "value": "Python, C++, ML, Applied AI, LLMs" },
+        { "key": "Mentoring", "value": "FRC Spice Gears 5883" },
+        { "key": "Mentoring", "value": "FTC Stark Robotics 31570" }
       ]
     }
   ],
